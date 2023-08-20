@@ -31,7 +31,9 @@
 *.out
 *.app
 
-
+# Our own products
 obj/*
+xdisp
+noudioJack
 *~
 *.kate-swp
