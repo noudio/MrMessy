@@ -19,14 +19,14 @@ linux with X11, Xext, and Jack dev libraries.
 
 e.g. ubuntu:
 ```
-(bash)$ apt install x11proto-dev libjack-dev
+$ apt install x11proto-dev libjack-dev
 ```
 
 How to Compile (currently):
 ---------------------------
 
 ```
-./make.sh
+$ ./make.sh
 ```
 
 How to run
@@ -34,13 +34,13 @@ How to run
 
 - Spectrum analyzer:
 ```
-(bash)$ ./xdisp
+$ ./xdisp
 ```
 ![spectrum-analyzer](https://github.com/noudio/MrMessy/blob/main/doc/xdisp-spectrum-analyzer.png)
 
 - Scope:
 ```
-(bash)$ ./xdisp --scope
+$ ./xdisp --scope
 ```
 ![scope](https://github.com/noudio/MrMessy/blob/main/doc/xdisp-scope.png)
 
