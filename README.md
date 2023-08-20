@@ -6,6 +6,8 @@ The apps show themselves as a kind of 'virtual instruments' on your desktop.
 
 Funfacts:
 1) The pictures of the instruments are from ones that I own personally.
+   - The spectrum analyzer is a Hewlett Packard HP-8591A.
+   - The scope is a Philips PM-3295.
 2) Uses shared memory X-window imaging for fast updating of the the graphics.
 3) All useful intrument controls (knobs, displays etc.) are defined and can have callback code attached, but currently only the powerbuttons and topleft corners are functional in that way.
 4) The instruments are resizeable in the most strangest of ways 🙃.
@@ -15,7 +17,7 @@ Source is still a bit messy, lots of viral introns in code
 
 Platforms:
 ----------
-linux with X11, Xext, and Jack dev libraries.
+Linux with X11, Xext, and Jack dev libraries.
 
 e.g. ubuntu:
 ```
