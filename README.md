@@ -6,7 +6,7 @@ The apps show themselves as a kind of 'virtual instruments' on your desktop.
 
 Funfacts:
 1) The pictures of the instruments are from ones that I own personally.
-2) All controls can have callable code, currently only the powerbuttons work
+2) All sensible intrument controls (knobs, displays etc.) can have callback code attached, currently only the powerbuttons and topleft corners are functional.
 3) The instruments are resizeable in the most strangest of ways.
 4) Press the top-left corner of an instrument, to have the window as a borderless desktop app
 
