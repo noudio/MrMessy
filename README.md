@@ -10,13 +10,13 @@ Funfacts:
 1) The pictures of the instruments are from ones that I own personally.
    - The spectrum analyzer is a Hewlett Packard HP-8591A.
    - The scope is a Philips PM-3295.
-2) Uses shared memory X-window imaging for fast updating of the the graphics.
+2) Uses shared memory with X-windows server for fast updating of the the graphics.
 3) All useful intrument controls (knobs, displays etc.) are defined and can have callback code attached, but currently only the powerbuttons and topleft corners are functional in that way.
 4) The instruments are resizeable in the most strangest of ways 🙃.
 
 Current state: Initial commit... 
 - Apps are functioning correctly
-- It's a toy, there are no useful measurements shown yet. Not implemented at this moment.. Just the visuals...
+- It's a toy, there are no useful measurements shown yet. Just the visuals...
 - Source is still a bit messy, lots of viral introns, stale sections etc. in code, but all code written by me.
 
 Platforms:
