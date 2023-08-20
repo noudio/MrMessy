@@ -4,6 +4,8 @@ Jack Audio X11 apps for audio visualization
 
 The apps show themselves as a kind of 'virtual instruments' on your desktop.
 
+https://github.com/noudio/MrMessy/assets/6895032/08d1c9b3-aa1f-43cb-af1a-93fd32b5d94b
+
 Funfacts:
 1) The pictures of the instruments are from ones that I own personally.
    - The spectrum analyzer is a Hewlett Packard HP-8591A.
