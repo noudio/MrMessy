@@ -18,28 +18,36 @@ Platforms:
 linux with X11, Xext, and Jack dev libraries.
 
 e.g. ubuntu:
-apt install x11proto-dev libjack-dev
+```
+(bash)$ apt install x11proto-dev libjack-dev
+```
 
 How to Compile (currently):
 ---------------------------
 
+```
 ./make.sh
+```
 
 How to run
 ----------
 
-spectrum analyzer:
+- Spectrum analyzer:
+```
 (bash)$ ./xdisp
-
+```
 ![spectrum-analyzer](https://github.com/noudio/MrMessy/blob/main/doc/xdisp-spectrum-analyzer.png)
 
-scope:
+- Scope:
+```
 (bash)$ ./xdisp --scope
-
+```
 ![scope](https://github.com/noudio/MrMessy/blob/main/doc/xdisp-scope.png)
 
-scope:
+- Black:
+```
 (bash)$ ./xdisp --black
+```
 
 This one can be useful for video grabbing, due to its black background. I used it for example to create this youtube vid: [andjelisa on rararadio](https://youtu.be/DI8FW4kV9h8?list=PL6jUM7gk5v0XpZLoLPm6GyWbw1ySJ1M1x&t=6864) , translating the black background to transparent and rotating the output by 90 degs 😎
 
