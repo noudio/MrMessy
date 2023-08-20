@@ -14,8 +14,9 @@ Funfacts:
 3) All useful intrument controls (knobs, displays etc.) are defined and can have callback code attached, but currently only the powerbuttons and topleft corners are functional in that way.
 4) The instruments are resizeable in the most strangest of ways 🙃.
 
-Current state: Initial commit
+Current state: Initial commit...
 - Apps are functioning correctly.
+- There are no useful measurements shown yet. Not implemented at this moment.. Just the visuals...
 - Source is still a bit messy, lots of viral introns, stale sections etc. in code, but all code written by me.
 
 Platforms:
