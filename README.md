@@ -41,7 +41,6 @@ scope:
 scope:
 (bash)$ ./xdisp --black
 
-![scope](https://github.com/noudio/MrMessy/blob/main/doc/xdisp-black.png)
 
 This one can be useful for video grabbing, due to the black background. I used it for example to create this youtube vid:
 [andjelisa on rararadio](https://youtu.be/DI8FW4kV9h8?list=PL6jUM7gk5v0XpZLoLPm6GyWbw1ySJ1M1x&t=6864)
