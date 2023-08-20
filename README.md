@@ -13,7 +13,8 @@ Funfacts:
 4) The instruments are resizeable in the most strangest of ways 🙃.
 
 Current state: Initial commit
-Source is still a bit messy, lots of viral introns in code, but all code written by me.
+- Apps are functioning correctly.
+- Source is still a bit messy, lots of viral introns, stale sections etc. in code, but all code written by me.
 
 Platforms:
 ----------
