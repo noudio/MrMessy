@@ -50,7 +50,7 @@ $ ./xdisp --scope
 ```
 ![scope](https://github.com/noudio/MrMessy/blob/main/doc/xdisp-scope.png)
 
-- Black:
+- Black spectrum analyzer:
 ```
 (bash)$ ./xdisp --black
 ```
