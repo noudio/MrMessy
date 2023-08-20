@@ -52,7 +52,7 @@ int main (int argc, char ** argv)
         if (!strcmp(a, "black")) {
             doBlack = true;
         }
-        if (!strcmp(a, "no-connect")) {
+        if (!strcmp(a, "connect")) {
             doConnect = true;
         }
     }
